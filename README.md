@@ -28,15 +28,15 @@ This project is a simple implementation of the classic Rock, Paper, Scissors gam
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/rock-paper-scissors.git
+    git clone "https://github.com/Anudeep007-hub/RockPaperScissor.git"
     ```
 2. **Navigate to the project directory:**
     ```sh
-    cd rock-paper-scissors
+    cd RockPaperScissor
     ```
 3. **Run the game:**
     ```sh
-    python game.py
+    python rps.py
     ```
 
 ## Usage
